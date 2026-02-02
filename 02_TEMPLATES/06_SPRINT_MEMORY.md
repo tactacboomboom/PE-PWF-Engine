@@ -31,7 +31,9 @@
 - **Transition** : Ce fichier est l'entrée obligatoire du morphisme d'évolution κₙ et d'instanciation μₙ₊₁ [5, 7, 8].
 
 ---
+
 **Anti-Pathologies :** ❌ Résumé narratif | ❌ Oubli des liens vers les preuves | ❌ Repartir "freestyle" au sprint suivant sans lire ce fichier [2, 3, 9].
+
 Points de vigilance pour l'agent (H=A) :
 • Moment de création : Ce fichier doit être produit systématiquement lors de la clôture du sprint, après la validation de la Definition of Done.
 • Utilisation : Au début du sprint suivant, le morphisme d'instanciation μ 
